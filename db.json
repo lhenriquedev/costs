@@ -1,0 +1,22 @@
+{
+  "projects": [],
+
+  "categories": [
+    {
+      "id": 1,
+      "name": "Marketing Digital"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento Web"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Server Web"
+    }
+  ]
+}
